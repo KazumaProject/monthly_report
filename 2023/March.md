@@ -9,27 +9,9 @@ Rails の勉強と並行してアプリの作成をしようと考えたが先�
 
 ## 現状
 
-本や動画の input は必要ないと考えいきなり課題に取り組んだ。
-Android で SQLite を使用することが多いのでいけると思ったが正規化をしていなかった事を教えて頂いた。その後 tomoya さんの ER図を見て何故この設計になったのか知りたくなりアプリを作ろうと思った。
+<img src="https://github.com/KazumaProject/monthly_report/blob/master/images/test_1.gif" width="160" height="160" />
 
-## REST について
-
-過去に Youtube の API を使用して動画の情報を取得した時に次のデータを取得するための Token がありそれを URL として使用する仕様だった記憶があり Level3 だと思った。
-
-## Rails の Udemy の input
-
-Rails の Twitter の課題を意識しながら勉強した。中間テーブルを実際に実装できた。
-
-## Android のアプリ開発
-
-アプリをリリースしました。
-
-https://play.google.com/store/apps/details?id=com.kazumaproject.markdownnote
-
-## Railsのinput
-
-アプリを作成した理由は tomoya さんの ER図を理解して Twitter の課題に取り組むことだったので Rails の学習に戻ります。
 
 ## 総括
 
-アプリを作成して学んだことはノートアプリの場合、ユーザーが入力したテキストが一番大事なのでノートの table を最低限しか触りたくないと思った。Twitter の課題がかなり厳しそうなので入念に準備をしたい。
+
