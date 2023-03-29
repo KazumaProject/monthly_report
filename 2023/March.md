@@ -9,7 +9,7 @@ Rails の勉強と並行してアプリの作成をしようと考えたが先�
 
 ## 現状
 
-<img src="https://github.com/KazumaProject/monthly_report/blob/master/images/test_1.gif" width="160" height="160" />
+<img src="https://github.com/KazumaProject/monthly_report/blob/master/images/test_1.gif" width="300" height="480" />
 
 
 ## 総括
